@@ -1,7 +1,6 @@
-// FindOut the 1st subarray which matche with given sum value------
-
 import java.util.ArrayList;
 
+// FindOut the 1st subarray which matche with given sum value------
 public class checkSumsub {
 
     public static boolean printFirstSubarray(int i, int[] arr, int sum, ArrayList<Integer> ds, int ans) {
