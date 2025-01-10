@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e57f9eff-1827-4b0f-a7ed-1e881768e2ed" name="Changes" comment="created practice folder for previous code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/DSA-cpp-java" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ashjha75&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ashjha75/DSA-cpp-java&quot;,
+    &quot;accountId&quot;: &quot;1ddbc2f9-55c9-4253-969c-026c1f07c8d1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-21.0.5/lib/src.zip!/java.base/java/util/Collections.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rFvKlmaj9v5BZUsesfZm4uaaGV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ashis\OneDrive\Desktop\Personal\DSA\DSA-cpp-java\Practice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e57f9eff-1827-4b0f-a7ed-1e881768e2ed" name="Changes" comment="" />
+      <created>1736167578265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736167578265</updated>
+      <workItem from="1736167579746" duration="1010000" />
+      <workItem from="1736231528129" duration="1041000" />
+      <workItem from="1736317536123" duration="560000" />
+      <workItem from="1736354186264" duration="5579000" />
+    </task>
+    <task id="LOCAL-00001" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736232008825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736232008825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736232041704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736232041704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736232083841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736232083841</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736232156471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736232156471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736317556392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736317556392</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736317860750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736317860750</updated>
+    </task>
+    <task id="LOCAL-00007" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736317998689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736317998689</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736318094640</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736318094640</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created practice folder for previous code">
+      <option name="closed" value="true" />
+      <created>1736361446442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736361446442</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created practice folder for previous code" />
+    <option name="LAST_COMMIT_MESSAGE" value="created practice folder for previous code" />
+  </component>
+</project>
